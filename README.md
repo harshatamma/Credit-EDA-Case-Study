@@ -41,3 +41,6 @@ The data is about whether a client has payment difficulties.
 
 3. <b>'columns_description.csv'</b> is data dictionary which describes the meaning of the variables.
 
+## Files uploaded
+* Executive summary in PDF
+* Jupyter notebook
