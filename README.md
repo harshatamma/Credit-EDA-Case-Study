@@ -30,6 +30,7 @@ In other words, the company wants to understand the driving factors (or driver v
 To develop our understanding of the domain, understanding the types of variables and their significance should be enough.
 
 ## Data Understanding
+The dataset can be downloaded from here: <a href=https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB>Link</a>
 
 This dataset has 3 files as explained below: 
 
@@ -39,3 +40,4 @@ The data is about whether a client has payment difficulties.
 2. <b>'previous_application.csv'</b> contains information about the client’s previous loan data. It contains the data on whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
 3. <b>'columns_description.csv'</b> is data dictionary which describes the meaning of the variables.
+
